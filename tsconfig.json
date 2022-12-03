@@ -12,7 +12,7 @@
     },
    
     "include": [
-        "*.ts"
+        "subjects"
     ],
     "exclude": [
         "node_modules"
